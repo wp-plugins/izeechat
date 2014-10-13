@@ -1,0 +1,754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin-IzeeChat 1.0\n"
+"POT-Creation-Date: 2014-10-09 21:01+0100\n"
+"PO-Revision-Date: 2014-10-09 21:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: Apizee <info@apizee.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: C:\\www\\wordpress\\wp-content\\plugins\\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: izeechat\n"
+
+#: izeechat/data/IzeeMenu.class.php:42
+msgid "Agents Listing"
+msgstr "Liste des Agents"
+
+#: izeechat/data/IzeeMenu.class.php:54
+msgid "Create an Agent"
+msgstr "Créer un Agent"
+
+#: izeechat/data/IzeeMenu.class.php:68
+msgid "Dashboard Apizee"
+msgstr "Tableau de bord"
+
+#: izeechat/data/IzeeMenu.class.php:72
+msgid "Link to the the cloud's dashboard"
+msgstr "Lien vers le dashboard cloud"
+
+#: izeechat/data/IzeeMenu.class.php:73
+msgid "Open in other tab"
+msgstr "Ouvrir dans un autre onglet"
+
+#: izeechat/data/IzeeMenu.class.php:76
+msgid "Open here"
+msgstr "Ouvrir ici"
+
+#: izeechat/data/IzeeMenu.class.php:85
+msgid "Support"
+msgstr "Support"
+
+#: izeechat/data/IzeeMenu.class.php:89
+msgid "//doc.apizee.com/izeechat-on-wordpress/"
+msgstr "//doc.apizee.com/izeechat-sur-wordpress/"
+
+#: izeechat/data/IzeeMenu.class.php:89
+msgid "Documentation"
+msgstr "Documentation"
+
+#: izeechat/data/IzeeMenu.class.php:102
+msgid "About IzeeChat"
+msgstr "À propos d'IzeeChat"
+
+#: izeechat/data/IzeeMenu.class.php:114
+msgid "Contact"
+msgstr "Contact"
+
+#: izeechat/data/IzeeProcess.class.php:36
+#: izeechat/data/IzeeProcess.class.php:41
+#: izeechat/data/IzeeProcess.class.php:45
+msgid "An unexpected error has occurred. please contact an administrator"
+msgstr "Une erreur est survenue. Veuillez contactez un administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:82
+#: izeechat/data/IzeeProcess.class.php:97
+#: izeechat/data/IzeeProcess.class.php:111
+#: izeechat/data/IzeeProcess.class.php:199
+#: izeechat/data/IzeeProcess.class.php:214
+#: izeechat/data/IzeeProcess.class.php:288
+#: izeechat/data/IzeeProcess.class.php:308
+#: izeechat/data/IzeeProcess.class.php:337
+#: izeechat/data/IzeeProcess.class.php:374
+#: izeechat/data/IzeeProcess.class.php:389
+#: izeechat/data/IzeeProcess.class.php:458
+#: izeechat/data/IzeeProcess.class.php:474
+#: izeechat/data/IzeeProcess.class.php:507
+#: izeechat/data/IzeeProcess.class.php:523
+msgid "An unexpected error has occurred"
+msgstr "Une erreur est survenue"
+
+#: izeechat/data/IzeeProcess.class.php:83
+#: izeechat/data/IzeeProcess.class.php:375
+#: izeechat/data/IzeeProcess.class.php:459
+msgid "Passwords not match !"
+msgstr "Les mots de passes ne correspondent pas !"
+
+#: izeechat/data/IzeeProcess.class.php:99
+msgid "User could already exist else contact an administrator"
+msgstr "L'utilisateur pourrait déjà exister sinon contactez un administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:144
+#: izeechat/data/IzeeProcess.class.php:148
+#: izeechat/data/IzeeProcess.class.php:397
+msgid ""
+"An unexpected error has occurred during registration. please contact an "
+"administrator"
+msgstr ""
+"Une erreur est survenue pendant l'enregistrement. Veuillez contactez un "
+"administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:201
+msgid "User probably doesn't exist else contact an administrator"
+msgstr ""
+"L'utilisateur n'existe probablement pas sinon contactez un administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:246
+#: izeechat/data/IzeeProcess.class.php:251
+msgid ""
+"An unexpected error has occurred during authentication. please contact an "
+"administrator"
+msgstr ""
+"Une erreur est survenue pendant l'authentification. Veuillez contactez un "
+"administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:289
+msgid "Your password isn't correct, please retry."
+msgstr "Votre mot de passe n'est pas correct, veuillez réessayer"
+
+#: izeechat/data/IzeeProcess.class.php:324
+#: izeechat/data/IzeeProcess.class.php:329
+msgid ""
+"An unexpected error has occurred during login. please contact an "
+"administrator"
+msgstr ""
+"Une erreur est survenue pendant la connexion. Veuillez contactez un "
+"administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:338
+msgid "You don't allowed to use this plugin."
+msgstr "Vous n'avez pas la permission d'utiliser cette extension"
+
+#: izeechat/data/IzeeProcess.class.php:411
+msgid "Request to create a new agent account for IzeeChat plugin. User: "
+msgstr ""
+"Demande de création de compte agent pour le plugin IzeeChat. Utilisateur:"
+
+#: izeechat/data/IzeeProcess.class.php:413
+msgid "Email: "
+msgstr "Email:"
+
+#: izeechat/data/IzeeProcess.class.php:417
+msgid "An error has occurred while send your request, please retry later"
+msgstr ""
+"Une erreur est survenue pendant l'envoi de votre requête, veuillez réessayer "
+"plus tard"
+
+#: izeechat/data/IzeeProcess.class.php:514
+#: izeechat/data/IzeeProcess.class.php:518
+msgid ""
+"An unexpected error has occurred during creation. please contact an "
+"administrator"
+msgstr ""
+"Une erreur est survenue pendant la création. Veuillez contactez un "
+"administrateur"
+
+#: izeechat/data/IzeeProcess.class.php:524
+msgid "User already exist"
+msgstr "L'utilisateur éxiste déjà"
+
+#: izeechat/data/IzeeUI.class.php:33
+msgid "Live chat solution for your website's visitors"
+msgstr "Solution de chat temps réel pour les visiteurs de votre site"
+
+#: izeechat/data/IzeeUI.class.php:33
+msgid ""
+"IzeeChat is an instant messaging solution for real-time communication with "
+"your visitors. During your discussions, you can always switch to audio or "
+"video communication."
+msgstr ""
+"IzeeChat est une solution de messagerie instantanée pour communiquer en "
+"temps réel avec vos visiteurs. Durant vos discussions, vous pouvez à tout "
+"moment passer en communication audio ou video."
+
+#: izeechat/data/IzeeUI.class.php:33
+msgid ""
+"So, you can offer help and advice instantly to your visitors when they need "
+"it. With IzeeChat solution, you improve the conversion rate of visitors to "
+"buyers and improve your brand image by providing a service of real-time "
+"support to your visitors. Izeechat has many additional features."
+msgstr ""
+"Ainsi, vous pouvez offrir votre aide et vos conseils instantanément à vos "
+"visiteurs quand ils en ont besoin. Avec la solution IzeeChat, vous améliorez "
+"le taux de transformation des visiteurs en acheteurs et vous améliorez votre "
+"image de marque en apportant un service de support temps-réel à vos "
+"visiteurs. Izeechat dispose de nombreuses fonctionnalités complémentaires."
+
+#: izeechat/data/IzeeUI.class.php:38
+msgid "//apizee.com/izeechat"
+msgstr "//apizee.fr/izeechat"
+
+#: izeechat/data/IzeeUI.class.php:38
+msgid "More"
+msgstr "En savoir plus"
+
+#: izeechat/data/IzeeUI.class.php:53
+msgid "4 Ampère street. 22300 Lannion, FRANCE."
+msgstr "4 rue Andrée Marie Ampère. 22300 Lannion, FRANCE."
+
+#: izeechat/data/IzeeUI.class.php:56
+msgid "//www.apizee.com/contact-us/"
+msgstr "//www.apizee.fr/contacter-nous/"
+
+#: izeechat/data/IzeeUI.class.php:56
+msgid "Contact us"
+msgstr "Contactez-nous"
+
+#: izeechat/data/IzeeUI.class.php:69 izeechat/data/IzeeUI.class.php:108
+#: izeechat/data/IzeeUI.class.php:123
+msgid "Authentication"
+msgstr "Authentification"
+
+#: izeechat/data/IzeeUI.class.php:76 izeechat/data/IzeeUI.class.php:100
+#: izeechat/data/IzeeUI.class.php:130 izeechat/data/IzeeUtils.class.php:215
+msgid "Password"
+msgstr "Mot de passe"
+
+#: izeechat/data/IzeeUI.class.php:78 izeechat/data/IzeeUI.class.php:133
+msgid "Connection"
+msgstr "Connexion"
+
+#: izeechat/data/IzeeUI.class.php:82 izeechat/data/IzeeUI.class.php:137
+msgid "Forgotten Password ?"
+msgstr "Mot de passe oublié ?"
+
+#: izeechat/data/IzeeUI.class.php:83 izeechat/data/IzeeUI.class.php:87
+msgid "Create an Account"
+msgstr "Créer un compte"
+
+#: izeechat/data/IzeeUI.class.php:91 izeechat/data/IzeeUtils.class.php:206
+msgid "Lastname"
+msgstr "Nom"
+
+#: izeechat/data/IzeeUI.class.php:94 izeechat/data/IzeeUtils.class.php:209
+msgid "Firstname"
+msgstr "Prénom"
+
+#: izeechat/data/IzeeUI.class.php:103 izeechat/data/IzeeUtils.class.php:218
+msgid "Confirm Password"
+msgstr "Confirmer Mot de Passe"
+
+#: izeechat/data/IzeeUI.class.php:105
+msgid "Register"
+msgstr "S'enregistrer"
+
+#: izeechat/data/IzeeUtils.class.php:155
+msgid "http://www.apizee.com/izeechat/"
+msgstr "http://www.apizee.fr/izeechat/"
+
+#: izeechat/data/IzeeUtils.class.php:170
+msgid "//www.apizee.com"
+msgstr "//www.apizee.fr"
+
+#: izeechat/data/IzeeUtils.class.php:170
+msgid "Licence GPL2"
+msgstr "Licence GPL2"
+
+#: izeechat/data/IzeeUtils.class.php:203
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: izeechat/data/IzeeUtils.class.php:212
+msgid "Email Address"
+msgstr "Adresse Email"
+
+#: izeechat/data/IzeeUtils.class.php:220
+msgid "Create Account"
+msgstr "Créer le compte"
+
+#: izeechat/data/IzeeUtils.class.php:248
+msgid "Reason:"
+msgstr "Raison: "
+
+#: izeechat/includes/errors.php:3
+msgid "invalid password"
+msgstr "Mot de passe invalide"
+
+#: izeechat/includes/errors.php:4
+msgid "invalid admin account"
+msgstr "Compte administrateur invalide"
+
+#: izeechat/includes/errors.php:5
+msgid "user already exist"
+msgstr "L'utilisateur éxiste déjà"
+
+#: izeechat/includes/errors.php:6
+msgid "fail to create button"
+msgstr "Impossible de créer le bouton"
+
+#: izeechat/includes/errors.php:7
+msgid "invalid new user informations"
+msgstr "Nouvelles information utilisateurs invalides"
+
+#: izeechat/includes/errors.php:8
+msgid "invalid permission"
+msgstr "Vous n'avez pas les permissions requises"
+
+#: izeechat/includes/errors.php:9
+msgid "invalid enterpriseId"
+msgstr "enterpriseId invalide"
+
+#: izeechat/includes/errors.php:10
+msgid "cms name"
+msgstr "Erreur CMS"
+
+#: izeechat/includes/errors.php:11
+msgid "this enterprise is not in your portfolio"
+msgstr "Cette entreprise n'est pas dans votre portefolio"
+
+#: izeechat/includes/errors.php:12
+msgid "user doesn't exist"
+msgstr "L'utilisateur n'existe pas"
+
+#: izeechat/includes/errors.php:13
+msgid "enterprise doesn't exist"
+msgstr "L'entreprise n'existe pas"
+
+#: izeechat/includes/errors.php:14
+msgid "domain doesn't exist"
+msgstr "Le domaine n'existe pas"
+
+#: izeechat/includes/errors.php:15
+msgid "the enterprise of the user is not in your portfolio"
+msgstr "L'entreprise de l'utilisateur n'est pas dans votre protefolio"
+
+#: izeechat/includes/errors.php:16
+msgid "upload failed"
+msgstr "Impossible d'uploader"
+
+#: izeechat/includes/errors.php:17
+msgid "invalid webSession"
+msgstr "WebSession invalide"
+
+#: izeechat/includes/errors.php:18
+msgid "site already exist"
+msgstr "Le site existe déjà"
+
+#: izeechat/includes/errors.php:19
+msgid "invalid new site informations"
+msgstr "Informtions du nouveau site invalides"
+
+#: izeechat/includes/errors.php:20
+msgid "unknown web site"
+msgstr "Site web inconnu"
+
+#: izeechat/includes/errors.php:21
+msgid "the enterprise is not in your portfolio"
+msgstr "L'entreprise n'est pas dans votre portefolio"
+
+#: izeechat/includes/errors.php:22
+msgid "web session doesn't exist"
+msgstr "La webSession n'existe pas"
+
+#: izeechat/includes/errors.php:23
+msgid "web site doesn't exist"
+msgstr "Le site web n'existe pas"
+
+#: izeechat/includes/errors.php:24
+msgid "unvalid origin : "
+msgstr "Origine invalide :"
+
+#: izeechat/includes/errors.php:25
+msgid "deprecated"
+msgstr "obsolète"
+
+#: izeechat/includes/errors.php:26
+msgid "unknown notification reason"
+msgstr "Raison de l'erreur inconnue"
+
+#: izeechat/includes/errors.php:27
+msgid "unknown CCS"
+msgstr "CCS inconnu"
+
+#: izeechat/includes/errors.php:28
+msgid "invalid visitor enterpriseId"
+msgstr "enterpriseId du visiteur inconnu"
+
+#: izeechat/includes/errors.php:29
+msgid "invalid visitorId"
+msgstr "visitorId invalid"
+
+#: izeechat/includes/errors.php:30
+msgid "auth failed"
+msgstr "Erreur d'authentification, vérifiez vos identifiants"
+
+#~ msgid "All rights reserved"
+#~ msgstr "Tous droits réservés"
+
+#~ msgid "Need Help ?"
+#~ msgstr "Besoin d'aide ?"
+
+#, fuzzy
+#~ msgid ""
+#~ "An unexpected error has occurred during creation. please contact an "
+#~ "administrator, user already exist"
+#~ msgstr ""
+#~ "Une erreur est survenue pendant la création du compte, l'utilisateur "
+#~ "existe déjà"
+
+#~ msgid "Open in iframe the cloud's dashboard"
+#~ msgstr "Ouvrir le dashboard cloud dans une iframe"
+
+#~ msgid "An error has occurred while interacting with Apizee Server"
+#~ msgstr ""
+#~ "Une erreur est survenue pendant l'intéraction avec le serveur d'Apizee"
+
+#~ msgid "An error has occurred while registering"
+#~ msgstr "Une erreur est survenue pendant l'enregistrement"
+
+#~ msgid "An error has occurred while authenticating"
+#~ msgstr "Une erreur est survenue pendant l'authentification"
+
+#~ msgid "An error has occurred while logging"
+#~ msgstr "Une erreur est survenue pendant la connexion"
+
+#~ msgid "An error has occurred while creating account"
+#~ msgstr "Une erreur est survenue pendant la création du compte"
+
+#~ msgid "This message disappear in 5 sesonds"
+#~ msgstr "Ce message disparaitra dans 5 secondes"
+
+#~ msgid "http://apizee.com"
+#~ msgstr "http://apizee.fr"
+
+#~ msgid "Official Website"
+#~ msgstr "Site Officiel"
+
+#~ msgid "Contact Us !"
+#~ msgstr "Contactez-Nous !"
+
+#~ msgid "Go to cloud.apizee.com"
+#~ msgstr "Vers cloud.apizee.com"
+
+#~ msgid "Open in iframe"
+#~ msgstr "Ouvrir dans une Iframe"
+
+#~ msgid "Create Wordpress Agent"
+#~ msgstr "Créer un Agent Wordpress"
+
+#, fuzzy
+#~ msgid "An error has occurred while interacting with Apizee API1"
+#~ msgstr "Une erreur est survenue pendant l'intéraction avec l'API d'Apizee"
+
+#, fuzzy
+#~ msgid "An error has occurred while interacting with Apizee API2"
+#~ msgstr "Une erreur est survenue pendant l'intéraction avec l'API d'Apizee"
+
+#, fuzzy
+#~ msgid "An error has occurred1"
+#~ msgstr "Une erreur est survenue !"
+
+#, fuzzy
+#~ msgid "An error has occurred2"
+#~ msgstr "Une erreur est survenue !"
+
+#~ msgid "Create Agent Account Wordpress"
+#~ msgstr "Créer un Agent Wordpress"
+
+#~ msgid "Log-In"
+#~ msgstr "Connexion"
+
+#~ msgid ""
+#~ "&rarr; It's recommanded to use a different password from wordpress, for "
+#~ "security reasons."
+#~ msgstr ""
+#~ "&rarr; Il est recommandé d'utiliser un mot de passe différent de celui de "
+#~ "wordpress pour des raisons de sécurité."
+
+#~ msgid ""
+#~ "&rarr; if you have already regestered this website on your account in "
+#~ "cloud, tick the box 'This Site Exist on Cloud '."
+#~ msgstr ""
+#~ "&rarr; Si vous avez déjà enregistré votre site web sur votre compte "
+#~ "cloud, cochez la case \"Ce site existe sur Cloud\"."
+
+#~ msgid ""
+#~ "&rarr; To become an IzeeChat agent, you must send a request to "
+#~ "administrator, he will create and activate your agent account if your "
+#~ "request is accepted."
+#~ msgstr ""
+#~ "&rarr; Pour devenir un agent IzeeChat, vous devez envoyer une demande à "
+#~ "l'administrateur, il créera le compte et l'activera si votre requête est "
+#~ "acceptée."
+
+#~ msgid ""
+#~ "&rarr; Use this form only if you have an account on Apizee's plateform !!!"
+#~ "<br/>Else contact Administrator."
+#~ msgstr ""
+#~ "&rarr; Utilisez ce formulaire uniquement si vous possédez déjà un compte "
+#~ "sur la plateforme d'Apizee !!! <br/>Sinon contactez l'administrateur."
+
+#~ msgid "This user is already in another enterprise"
+#~ msgstr "Cet utilisateur est déjà affecté à une entreprise."
+
+#~ msgid "An error has occurred while updating role"
+#~ msgstr ""
+#~ "Une erreur est survenue pendant la mise à jour du rôle de l'utilisateur"
+
+#~ msgid "About Us"
+#~ msgstr "À propos"
+
+#~ msgid "What is it ?"
+#~ msgstr "Qu'est-ce que c'est ?"
+
+#~ msgid "Register IzeeChat"
+#~ msgstr "Enregistrement  IzeeChat"
+
+#~ msgid "Register form"
+#~ msgstr "Formulaire d'enregistrement"
+
+#~ msgid "Last Name*"
+#~ msgstr "Nom*"
+
+#~ msgid "First Name*"
+#~ msgstr "Prénom*"
+
+#~ msgid "Email*"
+#~ msgstr "Email*"
+
+#~ msgid "Notes"
+#~ msgstr "Notes"
+
+#~ msgid "Authentication IzeeChat"
+#~ msgstr "Authentification IzeeChat"
+
+#~ msgid "Sign-in & Activate"
+#~ msgstr "Authentifiez & Activez"
+
+#~ msgid "Become an agent"
+#~ msgstr "Devenir un agent"
+
+#~ msgid "Send request"
+#~ msgstr "Envoyer la demande"
+
+#~ msgid "Login form"
+#~ msgstr "Formulaire de connexion"
+
+#~ msgid "Login"
+#~ msgstr "Connexion"
+
+#~ msgid "Listing Agents"
+#~ msgstr "Listings Agents"
+
+#~ msgid "delete"
+#~ msgstr "Supprimer"
+
+#~ msgid "Admin"
+#~ msgstr "Admin"
+
+#~ msgid "Username*"
+#~ msgstr "Nom d'utilisateur*"
+
+#~ msgid ""
+#~ "&rarr; To activate your account, you must be register on Apizee's "
+#~ "plateform. If you need help contact Administrator."
+#~ msgstr ""
+#~ "&rarr; Pour activer votre compte agent, vous devez vous enregistrer sur "
+#~ "la platforme d'Apizee. En cas de besoin contactez l'administrateur."
+
+#~ msgid "Registration IzeeChat"
+#~ msgstr "Enregistrement  IzeeChat"
+
+#~ msgid "Registration form"
+#~ msgstr "Formulaire d'enregistrement"
+
+#~ msgid "Registration"
+#~ msgstr "Enregistrement"
+
+#~ msgid "Wordpress Users Available"
+#~ msgstr "Utilisateurs Wordpress Disponibles"
+
+#~ msgid "No User Available"
+#~ msgstr "Aucun Utilisateur Disponible"
+
+#~ msgid "Change user as :"
+#~ msgstr "Modifier en tant que  :"
+
+#~ msgid "My Profile"
+#~ msgstr "Mon Profil"
+
+#~ msgid "Account Details"
+#~ msgstr "Détails du compte"
+
+#~ msgid "The account creation has not been done"
+#~ msgstr "La creation du compte ne s'est pas effectué"
+
+#~ msgid "An error has occurred while restoring role"
+#~ msgstr "Une erreur est survenue pendant la restauration du rôle par défaut"
+
+#~ msgid "Udating role has not been done"
+#~ msgstr "La mise à jour du rôle ne s'est pas effectuée"
+
+#~ msgid "An error has occurred while getting Site Key"
+#~ msgstr "Une erreur est survenue pendant l'obtention de la clé de site"
+
+#~ msgid "Getting Site Key has not been done"
+#~ msgstr "L'obtention de clé de site ne s'est pas effectuée"
+
+#~ msgid "The modification has not been done"
+#~ msgstr "La modification pour l'affichage de la box ne s'est pas effectuée"
+
+#~ msgid "Please check your php config or retry later"
+#~ msgstr "Veuillez vérifier votre configuration PHP ou réessayez plus tard"
+
+#~ msgid "Display chatbox on website"
+#~ msgstr "Afficher la box sur le site"
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid ""
+#~ "IzeeChat is a video conferencing solution with text messaging, allowing "
+#~ "you to communicate directly with your visitors. So, you can offer your "
+#~ "help and your advice instantly to your visitors when they need it."
+#~ msgstr ""
+#~ "IzeeChat est une solution de visioconférence avec la messagerie texte, "
+#~ "vous permettant de communiquer directement avec vos visiteurs. Ainsi, "
+#~ "vous pouvez offrir votre aide et vos conseils instantanément à vos "
+#~ "visiteurs quand ils en ont besoin."
+
+#~ msgid "The registration has not been done"
+#~ msgstr "L'enregistrement ne s'est pas effectué"
+
+#~ msgid "The authentication has not been done"
+#~ msgstr "L'authentification ne s'est pas effectuée"
+
+#~ msgid "The connection has not been done"
+#~ msgstr "La connexion ne s'est pas effectuée"
+
+#~ msgid "Registration has not been done"
+#~ msgstr "L'enregistrement ne s'est pas effectué"
+
+#~ msgid "This Site Exist on Cloud "
+#~ msgstr "Ce site existe sur Cloud"
+
+#~ msgid "Register on cloud"
+#~ msgstr "Enregistrement sur Cloud"
+
+#~ msgid "Authenticate on cloud"
+#~ msgstr "Authentification sur Cloud"
+
+#~ msgid "Domain Name"
+#~ msgstr "Nom de domaine"
+
+#~ msgid "Site Key"
+#~ msgstr "Clé de site"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Registration on cloud"
+#~ msgstr "Enregistrement sur Cloud"
+
+#~ msgid "Send request to administrator"
+#~ msgstr "Soumettre une demande à l'administrateur"
+
+#~ msgid "Your Email Address"
+#~ msgstr "Adresse Email"
+
+#~ msgid "Message"
+#~ msgstr "Message"
+
+#~ msgid "Write your message here..."
+#~ msgstr "Tapez votre message ici..."
+
+#~ msgid "Domain*"
+#~ msgstr "Nom de domaine*"
+
+#~ msgid "www.myWebsite.com"
+#~ msgstr "www.monSiteweb.com"
+
+#~ msgid "Presentation"
+#~ msgstr "Présentation"
+
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#~ msgid "Install"
+#~ msgstr "Installation"
+
+#~ msgid "The mail has not been sending to user"
+#~ msgstr "L'email n'a pu être envoyé à l'utilisateur"
+
+#, fuzzy
+#~ msgid "An error has occurred while creating account2"
+#~ msgstr "Une erreur est survenue pendant la création du compte"
+
+#~ msgid "An error has occurred while deleting"
+#~ msgstr "Une erreur est survenue pendant la suppresion"
+
+#~ msgid "restore"
+#~ msgstr "Restaurer"
+
+#~ msgid "Apizee - Easy Web Communications."
+#~ msgstr "Apizee - Easy Web Communications."
+
+#~ msgid ""
+#~ "IzeeChat is not activate. Please go to the installation page for activate "
+#~ "it"
+#~ msgstr ""
+#~ "IzeeChat n'est pas activé. Veuillez vous rendre sur la page "
+#~ "d'installation pour l'activer"
+
+#~ msgid "IzeeChat is activated ! Thank you for your confidence."
+#~ msgstr "IzeeChat est activé. Merci de votre confiance."
+
+#~ msgid "The request has been execute with success"
+#~ msgstr "La requête a été effectué avec succès"
+
+#~ msgid "Information for the user"
+#~ msgstr "Information pour l'utilisateur"
+
+#~ msgid "Warning !!!"
+#~ msgstr "Attention !!!"
+
+#~ msgid ""
+#~ "Authentication failed ! Your email or password are not valid. You can "
+#~ "reset your password or create an account. This error may also happen is "
+#~ "your account has been desactivated."
+#~ msgstr ""
+#~ "Authentification échouée ! Votre email ou mot de passe n'est pas valide. "
+#~ "Vous pouvez réinitialiser votre mot de passe ou créer un compte. Cette "
+#~ "erreur peut également apparaître si votre compte a été désactivé."
+
+#~ msgid "Error with your cloud account !"
+#~ msgstr "Erreur avec votre compte cloud !"
+
+#~ msgid "Problem with you cloud account !"
+#~ msgstr "Problème avec votre compte cloud !"
+
+#~ msgid "Problem with you cloud account"
+#~ msgstr "Problème avec votre compte cloud !"
+
+#~ msgid "Database Error !"
+#~ msgstr "Erreur de base de données !"
+
+#~ msgid "Cloud Apizee Error !"
+#~ msgstr "Erreur du cloud Apizee !"
+
+#~ msgid "The mail has been sent with success !"
+#~ msgstr "La requête a été effectué avec succès !"
+
+#~ msgid "Your mail is not valid"
+#~ msgstr "Votre email n'est pas valide"
+
+#~ msgid "The plugin has been correctly activated !!"
+#~ msgstr "Le plugin a été correctement activé !!"
+
+#~ msgid "Think to configure your website via your interface "
+#~ msgstr "Pensez à configurer votre site via l'interface du dashboard "

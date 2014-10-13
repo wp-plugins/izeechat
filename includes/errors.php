@@ -1,0 +1,32 @@
+<?php
+$api_error = array(
+	__("invalid password", "Izeechat"),
+	__("invalid admin account", "Izeechat"),
+	__("user already exist", "Izeechat"),
+	__("fail to create button", "Izeechat"),
+	__("invalid new user informations", "Izeechat"),
+	__("invalid permission", "Izeechat"),
+	__("invalid enterpriseId", "Izeechat"),
+	__("cms name", "Izeechat"),
+	__("this enterprise is not in your portfolio", "Izeechat"),
+	__("user doesn't exist", "Izeechat"),
+	__("enterprise doesn't exist", "Izeechat"),
+	__("domain doesn't exist", "Izeechat"),
+	__("the enterprise of the user is not in your portfolio", "Izeechat"),
+	__("upload failed", "Izeechat"),
+	__("invalid webSession", "Izeechat"),
+	__("site already exist", "Izeechat"),
+	__("invalid new site informations", "Izeechat"),
+	__("unknown web site", "Izeechat"),
+	__("the enterprise is not in your portfolio", "Izeechat"),
+	__("web session doesn't exist", "Izeechat"),
+	__("web site doesn't exist", "Izeechat"),
+	__("unvalid origin : ", "Izeechat"),
+	__("deprecated", "Izeechat"),
+	__("unknown notification reason", "Izeechat"),
+	__("unknown CCS", "Izeechat"),
+	__("invalid visitor enterpriseId", "Izeechat"),
+	__("invalid visitorId", "Izeechat"),
+	__("auth failed", "Izeechat")
+);
+?>

@@ -1,0 +1,198 @@
+
+/*
+ * CONTENT (SECTION)
+ */
+.content {
+    padding: 20px 15px;
+    /*background: none repeat scroll 0% 0% #F9F9F9;*/
+    overflow: auto;
+}
+
+/*
+ * LOGO IZEECHAT
+ */
+#login-logo {
+    height: 135px !important;
+    padding: 0 40px;
+    margin: 0 !important;
+}
+
+#login-logo img { margin: 30px auto 0 auto; }
+
+.margin { margin: 10px; }
+
+.text-center { text-align: center; }
+
+
+/*
+ * BOX
+ */
+/*blue theme*/
+.box.box-primary { border-top-color: #3C8DBC; }
+
+/*orange theme*/
+.box.box-warning { border-top-color: #F39C12; }
+
+/*green theme*/
+.box.box-success { border-top-color: #00A65A; }
+
+.box {
+    position     : relative;
+    background   : none repeat scroll 0% 0% #FFF;
+    border-top   : 2px solid #C1C1C1;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    width        : 100%;
+    box-shadow   : 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/*
+ * BOX HEADER
+ */
+.box .box-header:after { clear: both; }
+
+.box .box-header:before, .box .box-header:after {
+    display: table;
+    content: " ";
+}
+
+.box .box-header {
+    position: relative;
+    border-radius: 3px 3px 0px 0px;
+    border-bottom: 0px solid #F4F4F4;
+    color: #444;
+}
+
+/*
+ * BOX BODY
+ */
+.box .box-header > .fa, .box .box-header > .glyphicon, .box .box-header > .ion, .box .box-header .box-title {
+    display: inline-block;
+    padding: 10px;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 400;
+    float: left;
+    cursor: default;
+}
+
+.box .box-body {
+    padding: 10px;
+    border-radius: 0px 0px 3px 3px;
+}
+
+/* Listing agents */
+.agents-list {
+    height: 270px;
+    overflow: auto;
+
+}
+
+/* Listing agents - Intracom */
+.intracomUserStatus {
+	line-height: 40px;
+}
+
+table tr td .agent_name {
+    color: #181818;
+    line-height: 40px;
+    font-size: 12px;
+}
+
+table tr td.agentphoto { width: 30px; }
+
+/* Create an agent */
+.agent-form { height: 270px; }
+
+/* .about-izeechat { min-height: 270px; } */
+
+
+/*
+ * FORMULAIRE
+ */
+/* Header */
+.form-box .header {
+    border-radius: 4px 4px 0px 0px;
+    background: none repeat scroll 0% 0% #E29924;
+    box-shadow: 0px -3px 0px rgba(0, 0, 0, 0.2) inset;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+    color: #FFF;
+}
+
+.form-box {
+	width: 360px;
+    margin: 30px auto 0px;
+}
+
+
+
+.body.stick .form-group { margin-bottom: 5px !important; }
+
+.form-box .body, .form-box .footer {
+    padding: 10px 20px;
+    background: none repeat scroll 0% 0% #FFF;
+    color: #444;
+}
+
+.bg-gray { background-color: #EAEAEC !important; }
+
+.form-box .body > .form-group, .form-box .footer > .form-group { margin-top: 20px; }
+
+.form-box .body > .form-group > input, .form-box .footer > .form-group > input { border: medium none #FFF; }
+
+.form-control {
+    border-radius: 0px !important;
+    box-shadow: none;
+}
+
+/* Input - Button */
+.form-box .body > .btn, .form-box .footer > .btn { margin-bottom: 10px; }
+
+.btn {
+    font-weight: 500;
+    border-radius: 3px;
+    border: 1px solid;
+    box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.09) inset;
+    color: #f0f0f0;
+}
+
+.btn:focus {
+    box-shadow: none !important;
+}
+
+/* Blue theme */
+.bg-blue { background-color: #1270a7 !important; border-color: #1458e3; }
+
+.bg-blue:hover {
+    background-color: #065bc4 !important;
+    color: #f0f0f0;
+}
+
+/* Orange theme */
+.bg-orange { background-color: #E29924 !important; border-color: #E39314; }
+
+.bg-orange:hover {
+    background-color: #E08E0B !important;
+    color: #f0f0f0;
+}
+
+/* Green theme */
+.bg-green { background-color: #13a639 !important; border-color: #03c535; }
+
+.bg-green:hover {
+    background-color: #0dbf3b !important;
+    color: #f0f0f0;
+}
+
+/* Footer */
+.form-box .footer { border-radius: 0px 0px 4px 4px; }
+
+.form-box .body, .form-box .footer {
+    padding: 10px 20px;
+    background: none repeat scroll 0% 0% #FFF;
+}
+
+.form-box .footer p a { color: #181818; }
