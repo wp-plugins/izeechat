@@ -14,15 +14,10 @@ jQuery('form').submit(function() {
 
 jQuery(document).ready(function() {
 
-	jQuery('.fancybox').fancybox({
-		'width' : '80%',
-		'height' : '90%',
-		'autoScale' : false,
-		'transitionIn' : 'none',
-		'transitionOut' : 'none',
-		'type' : 'iframe' 
+	jQuery("a[rel^='prettyPhoto']").prettyPhoto({
+		social_tools: false
 	});
-
+	
 	var win_height = jQuery(window).height();
 	console.log("Window size: ", win_height);
 	jQuery('#dashboard_content').css( 'height', win_height );

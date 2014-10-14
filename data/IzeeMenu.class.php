@@ -72,7 +72,7 @@ class IzeeMenu {
 	                    			<a class="btn bg-blue btn-block" href="'.$config['api']['host'].'/index.php/dashboard?layout=true" title="'.__('Link to the the cloud\'s dashboard', 'Izeechat').'" target="_BLANK">
 				                    	'.__("Open in other tab", "Izeechat").'
 									</a>
-	                    			<a class="btn bg-blue btn-block fancybox fancybox.iframe" data-fancybox-type="iframe" href="'.$config['api']['host'].'/index.php/api/login?username='.$userInfos['email'].'&password='.$agentInfos['cloud_password'].'&layout=false">
+	                    			<a class="btn bg-blue btn-block" href="'.$config['api']['host'].'/index.php/api/login?username='.$userInfos['email'].'&password='.$agentInfos['cloud_password'].'&amp;iframe=true&amp;width=100%&amp;height=100%" rel="prettyPhoto[iframe]">
 										'.__("Open here", "Izeechat").'
 									</a>
 	                    		</div>
@@ -92,8 +92,6 @@ class IzeeMenu {
 						</div>
         			</div>
         		</div>
-
-
         	</div>
         	<div class="row">
         		<div class="col-lg-6">

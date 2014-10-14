@@ -83,9 +83,9 @@ class IzeeUtils {
 					wp_enqueue_script( 'bootstrap-js',plugins_url('lib/bootstrap/js/bootstrap.min.js', ROOT_FILE), array( 'jquery' ), '3.0.1', true );
 					wp_enqueue_style( 'bootstrap-css', plugins_url('lib/bootstrap/css/bootstrap.min.css', ROOT_FILE), array(), '3.0.1', 'all' );
 
-					// Fancybox
-					wp_enqueue_script( 'fancybox-js',plugins_url('lib/fancybox/js/jquery.fancybox.js', ROOT_FILE), array( 'jquery' ), '2.1.5', true );
-					wp_enqueue_style( 'fancybox-css', plugins_url('lib/fancybox/css/jquery.fancybox.css', ROOT_FILE), array(), '2.1.5', 'all' );
+					// prettyPhoto
+					wp_enqueue_script( 'prettyPhoto-js',plugins_url('lib/prettyPhoto/js/jquery.prettyPhoto.js', ROOT_FILE), array( 'jquery' ), '3.1.5', true );
+					wp_enqueue_style( 'prettyPhoto-css', plugins_url('lib/prettyPhoto/css/prettyPhoto.css', ROOT_FILE), array(), '3.1.5', 'all' );
 
 					wp_enqueue_script('izeechat-script',plugins_url('includes/js/admin.js',ROOT_FILE), array('jquery'),'',1);
 					wp_enqueue_style('izeechat-style',plugins_url('includes/css/admin.css',ROOT_FILE), false, '1.0.0' );
