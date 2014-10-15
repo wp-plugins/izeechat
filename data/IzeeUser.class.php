@@ -221,7 +221,8 @@ class IzeeUser {
 		$agents = unserialize($this->agentInfos[0]["users"]);
 		$agentProfileIds = unserialize(IzeeContainer::getUtilsInst()->agentProfileIds);
 		$agentIds = unserialize(IzeeContainer::getUtilsInst()->agentsIds);
-		$allAgents = unserialize(IzeeContainer::getUtilsInst()->agentsProfile)['users'];
+		$allAgents = unserialize(IzeeContainer::getUtilsInst()->agentsProfile);
+		$allAgents = $allAgents['users'];
 		$i = 0;
 
 
