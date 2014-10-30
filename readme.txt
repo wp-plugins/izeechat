@@ -1,7 +1,7 @@
-=== izeechat ===
+=== IzeeChat ===
 Contributors: apizee
 Donate link: 
-Tags: izeechat, chat, call center, video, call, advisor, apizee, visio conference, video conference, text chat, live video chat, live chat, webrtc, communications, web, web communications, call webrtc, caller, calling, callee, real time, visioconference, videoconference
+Tags: izeechat, chat, call center, chat room, visio, video, call, advisor, apizee, visio conference, video conference, text chat, live video chat, live chat, webrtc, communications, web, web communications, call webrtc, caller, calling, callee, real time, visioconference, videoconference
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: 1.0
