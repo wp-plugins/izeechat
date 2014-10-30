@@ -30,7 +30,7 @@ This section describes how to install the plugin and get it working.
 == Frequently asked questions ==
 
 = How to activate my izeechat for use it? =
-You must have already a apizee account or you must be create one if you want to use this plugin. You can have more infomartion for activate plugin at http://doc.apizee.com/install-izeechat
+You must have already a apizee account or you must be create one if you want to use this plugin. You can have more information to activate this plugin at http://doc.apizee.com/install-izeechat
 
 = My plugin doesn't working! =
 Contact Apizee Inc. (info@apizee.com)
