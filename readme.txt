@@ -14,7 +14,7 @@ IzeeChat is a chat, audio and video conferencing solution, allowing you to commu
 
 IzeeChat is a real-time web communication solution helping you deliver better customer service. Live chat, audio and videoconferencing services enable you to offer better support and advice to visitors. You can interact with your website visitors, display personalized messages at the right time and promote your products. IzeeChat helps you increase sales and customer satisfaction.
 IzeeChat can be customized to fit your unique branding and style.
-The solution is based on a WebRTC platform and doesn’t require users to download, register or install plugins to use the service.
+The solution is based on a WebRTC platform and doesn't require users to download, register or install plugins to use the service.
 
 More Information : 
 - http://apizee.com
