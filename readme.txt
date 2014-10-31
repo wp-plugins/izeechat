@@ -8,11 +8,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-IzeeChat is a video conferencing solution with text messaging, allowing you to communicate directly with your visitors.
+IzeeChat is a chat, audio and video conferencing solution, allowing you to communicate directly with your visitors.
 
 == Description ==
 
-IzeeChat is an instant messaging solution for real-time communication with your visitors. During your discussions, you can always switch to audio or video communication. So, you can offer help and advice instantly to your visitors when they need it. With IzeeChat solution, you improve the conversion rate of visitors to buyers and improve your brand image by providing a service of real-time support to your visitors. Izeechat has many additional features.
+IzeeChat is a real-time web communication solution helping you deliver better customer service. Live chat, audio and videoconferencing services enable you to offer better support and advice to visitors. You can interact with your website visitors, display personalized messages at the right time and promote your products. IzeeChat helps you increase sales and customer satisfaction.
+IzeeChat can be customized to fit your unique branding and style.
+The solution is based on a WebRTC platform and doesn’t require users to download, register or install plugins to use the service.
 
 More Information : 
 - http://apizee.com
@@ -29,11 +31,11 @@ This section describes how to install the plugin and get it working.
 
 == Frequently asked questions ==
 
-= How to activate my izeechat for use it? =
-You must have already a apizee account or you must be create one if you want to use this plugin. You can have more information to activate this plugin at http://doc.apizee.com/install-izeechat
+= How do I activate my IzeeChat? =
+You have to create an Apizee account if you want to use this plugin. More information on how to activate the plugin at http://doc.apizee.com/install-izeechat
 
-= My plugin doesn't working! =
-Contact Apizee Inc. (info@apizee.com)
+= My plugin doesn't work! =
+Please contact Apizee (info@apizee.com)
 
 == Screenshots ==
 
