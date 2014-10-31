@@ -1,4 +1,4 @@
-=== IzeeChat ===
+=== IzeeChat - Live Chat Plugin ===
 Contributors: apizee
 Donate link: 
 Tags: izeechat, chat, call center, video, call, advisor, apizee, visio conference, video conference, text chat, live video chat, live chat, webrtc, communications, web, web communications, call webrtc, caller, calling, callee, real time, visioconference, videoconference
