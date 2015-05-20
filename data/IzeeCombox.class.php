@@ -22,11 +22,10 @@ class IzeeCombox {
 	 * @author  Kevin B. Apizee Inc
 	 */
 	public function visitor($siteKey) {
-		if(IzeeContainer::getUserInst()->agentInfos[0][box_display] == 'enable') {
+		if(IzeeContainer::getUserInst()->agentInfos[0]['box_display'] == 'enable') {
 			return ' 
 			<script type="text/javascript" src="//cloud.apizee.com/contactBox/loaderIzeeChat.js"></script>
-			<script>loaderIzeeChat("'.$siteKey.'", { "serverDomainRoot" : "//cloud.apizee.com/"});</script>
-			';
+			<script>loaderIzeeChat("'.$siteKey.'", { "serverDomainRoot" : "//cloud.apizee.com/"});</script>';
 		}
 		return false;
 	}
