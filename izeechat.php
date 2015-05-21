@@ -3,7 +3,7 @@
 * Plugin Name: izeechat
 * Plugin URI: http://www.apizee.com/izeechat/
 * Description: IzeeChat is a video conferencing solution with text messaging, allowing you to communicate directly with your visitors. So, you can offer your help and your advice instantly to your visitors when they need it.
-* Version: 1.
+* Version: 1.1
 * Author: Apizee
 * Author URI: http://www.apizee.com/
 * License: GPL2
